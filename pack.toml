@@ -1,0 +1,12 @@
+name = "MainPackCustom"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b6ea5c7de0dcf84a4c85ba221c063c9cbd13285da6fc6a220a91c4b6befb4460"
+
+[versions]
+forge = "47.3.7"
+minecraft = "1.20.1"
