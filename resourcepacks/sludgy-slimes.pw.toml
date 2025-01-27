@@ -1,0 +1,13 @@
+name = "Sludgy Slimes"
+filename = "Sludgy Slimes.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0400e397f876e3a4a5efcbbce02a98da9c00f6f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4817224
+project-id = 927667

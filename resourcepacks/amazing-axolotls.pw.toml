@@ -1,0 +1,13 @@
+name = "Amazing Axolotls"
+filename = "Amazing Axolotls.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7cac38a8f1f6251f034dd4e6e87c236bc44fe4b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4585827
+project-id = 874127

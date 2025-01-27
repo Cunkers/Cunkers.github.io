@@ -1,0 +1,13 @@
+name = "Luxurious Lichen"
+filename = "Luxurious Lichen.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0229526fc86624dd7b3f3169d81dde71878df3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5092021
+project-id = 883870

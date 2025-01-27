@@ -1,0 +1,13 @@
+name = "Party Pups"
+filename = "Party Pups.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d85cc32f4afac36d03b04e630d50d91a16f0e521"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5228905
+project-id = 746394

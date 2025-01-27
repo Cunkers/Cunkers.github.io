@@ -1,0 +1,13 @@
+name = "Hazardous Hoglins"
+filename = "Hazardous Hoglins.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ab1c3e2cebe5ba551cae9d5dc2433e375eda026"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5123909
+project-id = 977417

@@ -1,0 +1,13 @@
+name = "Porkier Piglins"
+filename = "Porkier Piglins.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cecf737a3b9e06676511d5456c55634053c274cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5149138
+project-id = 666589

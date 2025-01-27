@@ -1,0 +1,13 @@
+name = "Better Squids"
+filename = "Better Squids.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb117f7ba3f0dd4d4ace880d4da60034cec2fd59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4971816
+project-id = 667069

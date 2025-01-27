@@ -1,0 +1,13 @@
+name = "Cluckier Chickens"
+filename = "Cluckier Chickens.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41dee8e8163398ad6d10efbd4310a2d3f6c2a8e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4582897
+project-id = 873603

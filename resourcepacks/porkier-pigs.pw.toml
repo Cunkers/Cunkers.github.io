@@ -1,0 +1,13 @@
+name = "Porkier Pigs"
+filename = "Porkier Pigs.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7739185544e4c9eb29bfa58e3a4790b3c3051e8c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5314026
+project-id = 670152

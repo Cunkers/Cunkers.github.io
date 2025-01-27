@@ -1,0 +1,13 @@
+name = "Beefier Bovine"
+filename = "Beefier Bovine.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ca24e085acb91b7ca2e1eae752bbf5fcbdeb9ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4981936
+project-id = 883876

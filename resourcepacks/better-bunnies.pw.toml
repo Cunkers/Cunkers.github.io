@@ -1,0 +1,13 @@
+name = "Better Bunnies"
+filename = "Better Bunnies.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af55c7160e766485c118d0e8cf59fc3974cac517"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5384956
+project-id = 1027889

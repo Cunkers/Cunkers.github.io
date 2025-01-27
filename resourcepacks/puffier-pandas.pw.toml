@@ -1,0 +1,13 @@
+name = "Puffier Pandas"
+filename = "Puffier Pandas.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae057b43a6557a02ffdd6fec2b920dc715fc4fb7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5097647
+project-id = 819726
