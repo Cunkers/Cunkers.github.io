@@ -20908,10 +20908,6 @@ hash = "319247a765cc091686c14b7ceb0383285d32c59a15a60d6b673d45dd56482872"
 metafile = true
 
 [[files]]
-file = "resourcepacks/�7[64x] COVEN v.0.16.8.zip"
-hash = "20da78cabadb003578c4d22391cfa05f9f36be2be2363fb707aacd49d6bcf5d2"
-
-[[files]]
 file = "servers.dat"
 hash = "fe24665daa969014206544bd7ee802487366a0084651c4c04d5629bc6d037c12"
 
@@ -20974,15 +20970,3 @@ hash = "348c6f278f77cb8c26ee23a64506c84b1e5c4c6dc88776605bf5a2ad996d1684"
 [[files]]
 file = "shaderpacks/photon_v1.0a.zip.txt"
 hash = "12ad8e4369998e78aea4620434045536256756ff24c54e4fce2d7a554d3a0900"
-
-[[files]]
-file = "shaderpacks/�r�lAstra�4�lLex�r�l_By_LexBoosT_�4�lV89.0�r�l.zip.txt"
-hash = "cf32ca8341d9de0f6248c8c1cd96d5e8d015ba09422b7c8f62d756a07dc4f8a7"
-
-[[files]]
-file = "shaderpacks/�r�lAstra�4�lLex�r�l_By_LexBoosT_�4�lV93.0�r�l.zip"
-hash = "5050dc8c5ac0e5e4e580fbbaa74838677f30319a0cb292edec1ac4a49a7a7410"
-
-[[files]]
-file = "shaderpacks/�r�lAstra�4�lLex�r�l_By_LexBoosT_�4�lV93.0�r�l.zip.txt"
-hash = "930c5b9c794505dce2487a4b3ded46ee019abe1247437860971a6d4263ef4727"
