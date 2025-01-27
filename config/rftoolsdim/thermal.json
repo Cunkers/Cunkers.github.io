@@ -1,0 +1,192 @@
+[
+  {
+    "type": "block",
+    "key": "thermal:deepslate_apatite_ore",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:deepslate_cinnabar_ore",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:deepslate_lead_ore",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:deepslate_nickel_ore",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:deepslate_niter_ore",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:deepslate_ruby_ore",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:deepslate_sapphire_ore",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:deepslate_silver_ore",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:deepslate_sulfur_ore",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:deepslate_tin_ore",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:raw_lead_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:raw_nickel_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:raw_silver_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:raw_tin_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:slag_bricks",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:steel_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:stripped_rubberwood_log",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thermal:stripped_rubberwood_wood",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "thermal:crude_oil",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  }
+]

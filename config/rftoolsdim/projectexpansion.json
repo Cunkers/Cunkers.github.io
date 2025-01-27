@@ -1,0 +1,242 @@
+[
+  {
+    "type": "block",
+    "key": "projectexpansion:blue_fuel_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:blue_matter_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:compact_sun",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:cyan_fuel_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:cyan_matter_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:fading_matter_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:green_fuel_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:green_matter_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:lime_fuel_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:lime_matter_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:magenta_fuel_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:magenta_matter_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:orange_fuel_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:orange_matter_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:pink_fuel_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:pink_matter_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:purple_fuel_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:purple_matter_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:violet_fuel_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:violet_matter_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:white_fuel_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:white_matter_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:yellow_fuel_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "projectexpansion:yellow_matter_block",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  }
+]

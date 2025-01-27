@@ -1,0 +1,32 @@
+[
+  {
+    "type": "block",
+    "key": "torchmaster:dreadlamp",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "torchmaster:invisible_light",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "block",
+    "key": "torchmaster:megatorch",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": false,
+    "dimlet": false
+  }
+]

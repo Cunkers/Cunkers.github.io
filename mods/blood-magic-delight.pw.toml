@@ -1,0 +1,13 @@
+name = "Blood Magic Delight"
+filename = "bloodmagicdelight-1.0.2.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e03e19d73d106f6d98c7c78d760fb7caf4d8b77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6087496
+project-id = 1115498

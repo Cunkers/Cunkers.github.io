@@ -1,0 +1,12 @@
+[
+  {
+    "type": "structure",
+    "key": "trials:trials_chambers",
+    "rarity": "rare",
+    "create": 1000,
+    "maintain": 10000,
+    "ticks": 1000,
+    "worldgen": true,
+    "dimlet": true
+  }
+]

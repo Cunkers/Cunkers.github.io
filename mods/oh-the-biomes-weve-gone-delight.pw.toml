@@ -1,0 +1,13 @@
+name = "Oh The Biomes We've Gone Delight"
+filename = "otbwgdelight-1.1.1.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "714e3f40b99ee27cf46c726903b719f5e8aa97ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6097456
+project-id = 1095055

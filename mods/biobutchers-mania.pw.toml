@@ -1,0 +1,13 @@
+name = "BioButcher's Mania"
+filename = "biobutchers-delight-2.03.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90bcef9780883b00e2fb06ac395afc015cd45f50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5858265
+project-id = 1093935

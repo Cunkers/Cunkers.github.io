@@ -1,0 +1,13 @@
+name = "Scaling Mob Difficulty"
+filename = "ScalingMobs-2.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ad048df687dc58568d42e843a5fa90e6e538ecd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6038701
+project-id = 506521

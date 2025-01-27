@@ -1,0 +1,12 @@
+[
+  {
+    "type": "block",
+    "key": "refinedstorage:quartz_enriched_iron_block",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  }
+]

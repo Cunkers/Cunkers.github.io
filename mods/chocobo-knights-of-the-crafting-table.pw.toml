@@ -1,0 +1,13 @@
+name = "Chocobo Knights of the Crafting Table"
+filename = "ChocoboKnightsOfTheCraftingTableByBladeAndFeather-1.20.1-1.0.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e72a684d9c2979dc3accf5d21f25b69a85d8ee24"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5216367
+project-id = 404424

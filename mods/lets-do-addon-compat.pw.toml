@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] Compat"
+filename = "letsdocompat-forge-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f96f42d707b73c8593c339882b45023d3265b290"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6034379
+project-id = 992333

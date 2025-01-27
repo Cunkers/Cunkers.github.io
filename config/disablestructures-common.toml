@@ -1,0 +1,5 @@
+#If enabled will output to the debug.log when a structure is disabled.
+"Enable Debug" = false
+#This list defines the structures that should be disabled from generating.
+"Disabled Structures" = ["apotheosis:tower_leaf", "apotheosis:tower_main", "apotheosis:tower_sand", "apotheosis:tower_spruce"]
+

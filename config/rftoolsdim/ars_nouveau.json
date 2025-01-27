@@ -1,0 +1,22 @@
+[
+  {
+    "type": "structure",
+    "key": "ars_nouveau:wilden_den",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": false,
+    "dimlet": false
+  },
+  {
+    "type": "structure",
+    "key": "ars_nouveau:wilden_guardian_den",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": false,
+    "dimlet": false
+  }
+]

@@ -1,0 +1,53 @@
+#This should under no circumstances be set to true in modpacks
+#If set to true, the mod creates a new global folder, that is global for your user on your computer.
+#The created folders will be:
+# <user_home>/.minecraft_global_packs/required_datapacks
+# <user_home>/.minecraft_global_packs/optional_datapacks
+# <user_home>/.minecraft_global_packs/required_resourcepacks
+# <user_home>/.minecraft_global_packs/optional_resourcepacks
+enable_system_global_packs = false
+
+#This config allows you to add or remove folders or single files as Data-/Resourcepacks
+#For that simply specify the file path to the folder/file relative to your .minecraft or instance folder
+#With the current config you can place a Datapack into '.minecraft/global_packs/required_data' to force enable a datapack.
+[resourcepacks]
+required = [
+    #"other_folder/random_pack.zip" # You can also point at specific files!
+    "resourcepacks/Darker Pipez.zip",
+    "resourcepacks/AL's Skeletons Revamped 1.6.1.zip",
+    "resourcepacks/AL's Zombies Revamped 1.6.zip",
+    "resourcepacks/AL's Creepers Revamped 1.3.zip",
+    "resourcepacks/AL's Enderman Revamped 1.1.zip",
+    "resourcepacks/Amazing Axolotls.zip",
+    "resourcepacks/Beefier Bovine.zip",
+    "resourcepacks/Better Bunnies.zip",
+    "resourcepacks/Better illagers.zip",
+    "resourcepacks/Better Spiders.zip",
+    "resourcepacks/Better Squids.zip",
+    "resourcepacks/Better Villagers.zip",
+    "resourcepacks/Cluckier Chickens.zip",
+    "resourcepacks/Fabulous Foliage.zip",
+    "resourcepacks/Hazardous Hoglins.zip",
+    "resourcepacks/Luxurious Lichen.zip",
+    "resourcepacks/MekanismThings_CTM-Fusion_devbuild0.1.zip",
+    "resourcepacks/Meow Society.zip",
+    "resourcepacks/Party Pups.zip",
+    "resourcepacks/Porkier Piglins.zip",
+    "resourcepacks/Porkier Pigs.zip",
+    "resourcepacks/Puffier Pandas.zip",
+    "resourcepacks/Sludgy Slimes.zip",
+    "resourcepacks/Splendous Sniffers.zip",
+    "resourcepacks/waystones_1.20.zip",
+    "resourcepacks/SmoothFont_1.20.zip"
+
+]
+
+[datapacks]
+required = [
+    "resourcepacks/",
+    "global_packs/required_data/"
+]
+
+optional = [
+    "global_packs/optional_data/"
+]
