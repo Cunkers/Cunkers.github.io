@@ -3661,6 +3661,14 @@ file = "config/tacz/backup/tacz_default_gun/backup-20250103-222530-0aa1c66aed2f9
 hash = "dfb8d66fd4bad47c32171d20457e72660b4990af1d4939fd54ffd5ce5bf0d3ea"
 
 [[files]]
+file = "config/tacz/custom/Xiaomantou GunPack V1.0.6.zip"
+hash = "51a5298cd44ac32d2425cce3ba6b9f96eb93c38d3ffbeeea6ab1383c8c7c3cdb"
+
+[[files]]
+file = "config/tacz/custom/[TACZ1.1.4]ClassicRCCRP 1.0.9release hotfix.zip"
+hash = "b12ac955411d5da10f7c704afea2a5a6e7c3be1eb8a01e61429daee450de63b1"
+
+[[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/12g_display.json"
 hash = "89b8efce09a5913f19fc54051ed7215e70589694bf625e648473ec84944ce6b4"
 
@@ -16629,6 +16637,10 @@ file = "mods/Apotheosis-1.20.1-7.4.5.jar"
 hash = "db8e5193f0fb956cf83368e156a6d3afd465b74fe8c6d252b90a1803535fdd43"
 
 [[files]]
+file = "mods/Apothic Amendments - Enchanting - 0.1.4 (1).jar"
+hash = "d05da88a29fb0130b883e6abb8cd7afbd5c6b49ec2e710de210a88d56754b7ae"
+
+[[files]]
 file = "mods/Apothic Amendments - Enchanting - 0.1.4.jar"
 hash = "d05da88a29fb0130b883e6abb8cd7afbd5c6b49ec2e710de210a88d56754b7ae"
 
@@ -17342,6 +17354,10 @@ metafile = true
 file = "mods/apotheosis.pw.toml"
 hash = "12bd7bb2fe52275a0ad036e2484bec709123fbe13f5d53aead53433a695d118f"
 metafile = true
+
+[[files]]
+file = "mods/apotheosis_modern_ragnarok-3.0.0+mc1.20.1+tacz1.1.4.jar"
+hash = "ce58b38371a1bb7cd9190b23ca2cc447035be2d6c93a06af68aa1791bfc45565"
 
 [[files]]
 file = "mods/apothic-amendments-enchanting.pw.toml"
@@ -18376,6 +18392,10 @@ hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true
 
 [[files]]
+file = "mods/enchanted_arsenal-1.0.1-forge-1.20.1.jar"
+hash = "961eb2909276ae4a653734db1afb5dc6ae32e75b1ac1a82bb38c02ffd2b1a61c"
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "2f30de9a0d70d37a56c283c98c69e0d264515d5876b7e2a9d78d1f1941692a3f"
 metafile = true
@@ -18758,6 +18778,10 @@ metafile = true
 [[files]]
 file = "mods/gpumemleakfix-1.20.1-1.8.jar"
 hash = "a7019442f1b07b1a4a875fe404d04d162905cc7fd42e0b3c843aefc7b39efc46"
+
+[[files]]
+file = "mods/guccivuitton-1.20.1-0.2.2.jar"
+hash = "9247e55f20acf8ec89af56d4ad45fcc8fe08bee9f7189421ef31835f3516bd57"
 
 [[files]]
 file = "mods/handcrafted-forge-1.20.1-3.0.6.jar"
@@ -19221,6 +19245,10 @@ hash = "537ea446b9a3715807624a68b34f6b30d5f7ed2980a69ec80c8c4d0075825ddd"
 file = "mods/lootr.pw.toml"
 hash = "cd4fe8b667d14c946028050cf9e4c3367868f79d9f429ec18eb47cce34e021a3"
 metafile = true
+
+[[files]]
+file = "mods/lradd-1.20.1-0.2.4.jar"
+hash = "e4ac3f3f58b39e413b915c181ddccfb40fba36226fedd4743cbb49d6188e8cb3"
 
 [[files]]
 file = "mods/lucent-1.20.1-1.5.5.jar"
@@ -20241,6 +20269,10 @@ file = "mods/tacz-1.20.1-1.1.4-hotfix-all.jar"
 hash = "87743f248aee19e2305a5302294d1b379a84b8b83f0611f7599fd61b5d499c5d"
 
 [[files]]
+file = "mods/tacz_fallout-0.1.0.jar"
+hash = "21f891fddafe68af390dbf9ca9cf32c95157385a6d1c803eff7922d84e6463a8"
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "97175f71f202d2d47a5828568c9f53339952a1c20b09378bdf5ad34557a8b4be"
 metafile = true
@@ -20908,10 +20940,6 @@ hash = "319247a765cc091686c14b7ceb0383285d32c59a15a60d6b673d45dd56482872"
 metafile = true
 
 [[files]]
-file = "resourcepacks/�7[64x] COVEN v.0.16.8.zip"
-hash = "20da78cabadb003578c4d22391cfa05f9f36be2be2363fb707aacd49d6bcf5d2"
-
-[[files]]
 file = "servers.dat"
 hash = "fe24665daa969014206544bd7ee802487366a0084651c4c04d5629bc6d037c12"
 
@@ -20974,15 +21002,3 @@ hash = "348c6f278f77cb8c26ee23a64506c84b1e5c4c6dc88776605bf5a2ad996d1684"
 [[files]]
 file = "shaderpacks/photon_v1.0a.zip.txt"
 hash = "12ad8e4369998e78aea4620434045536256756ff24c54e4fce2d7a554d3a0900"
-
-[[files]]
-file = "shaderpacks/�r�lAstra�4�lLex�r�l_By_LexBoosT_�4�lV89.0�r�l.zip.txt"
-hash = "cf32ca8341d9de0f6248c8c1cd96d5e8d015ba09422b7c8f62d756a07dc4f8a7"
-
-[[files]]
-file = "shaderpacks/�r�lAstra�4�lLex�r�l_By_LexBoosT_�4�lV93.0�r�l.zip"
-hash = "5050dc8c5ac0e5e4e580fbbaa74838677f30319a0cb292edec1ac4a49a7a7410"
-
-[[files]]
-file = "shaderpacks/�r�lAstra�4�lLex�r�l_By_LexBoosT_�4�lV93.0�r�l.zip.txt"
-hash = "930c5b9c794505dce2487a4b3ded46ee019abe1247437860971a6d4263ef4727"
